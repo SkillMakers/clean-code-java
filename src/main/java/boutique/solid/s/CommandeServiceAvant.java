@@ -16,7 +16,8 @@ public class CommandeServiceAvant {
     public int valider(String email, int[][] lignes, String codePromo) {
         int total = Calc.calc(lignes, codePromo, false);
         base.add("INSERT INTO commande(email, total) VALUES ('" + email + "', " + total + ")");
-        mailsEnvoyes.add("A " + email + String.format(" : merci pour votre commande de %d,%02d euros", total / 100, total % 100));
+        mailsEnvoyes.add("A " + email
+                + String.format(" : merci pour votre commande de %d,%02d euros", total / 100, total % 100));
         return total;
     }
 }
