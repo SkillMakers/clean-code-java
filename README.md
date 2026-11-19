@@ -1,6 +1,6 @@
 # Clean code et principes SOLID en Java : exemples et pièges
 
-Code de la vidéo **« Clean code et principes SOLID en Java : exemples et pièges »** de la chaîne
+Code de la vidéo **[« Clean code et principes SOLID en Java : exemples et pièges »](https://youtu.be/VdOheLt0XZs)** de la chaîne
 [IT Skills Maker](https://www.youtube.com/@ItSkillsMaker), playlist
 [Java pour développeurs](https://www.youtube.com/playlist?list=PLFmYDsjERZrU).
 
