@@ -1,0 +1,4 @@
+$ java boutique.pieges.DemoDeuxStylos
+avant (Calc)          : 244
+premier jet propre    : 245
+corrige               : 244

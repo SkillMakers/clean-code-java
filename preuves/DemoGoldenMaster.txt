@@ -1,0 +1,5 @@
+$ java boutique.pieges.DemoGoldenMaster
+premier jet (propre.PrixPanier)      40000 cas, 9976 prix differents (24.9 %), ecart max 2 centime(s)
+   1er exemple : [Ligne[produit=P0, prixHtCentimes=4337, quantite=1], Ligne[produit=P1, prixHtCentimes=7234, quantite=3], Ligne[produit=P2, prixHtCentimes=435, quantite=3], Ligne[produit=P3, prixHtCentimes=4643, quantite=4], Ligne[produit=P4, prixHtCentimes=2940, quantite=4], Ligne[produit=P5, prixHtCentimes=4856, quantite=1]] code=null DOMICILE : avant 75037, apres 75038
+corrige (corrige.PrixPanier)         40000 cas, 0 prix differents (0.0 %), ecart max 0 centime(s)
+decoupe (pieges.PrixPanierDecoupe)   40000 cas, 0 prix differents (0.0 %), ecart max 0 centime(s)

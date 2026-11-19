@@ -1,0 +1,4 @@
+$ java boutique.solid.l.DemoLiskov
+roman + guide : 1190 centimes
+roman + e-book : java.lang.UnsupportedOperationException: un livre numerique n'a pas de poids
+apres, roman + guide : 1190 centimes

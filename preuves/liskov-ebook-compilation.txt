@@ -1,0 +1,12 @@
+$ (EssaiEbook : un LivreEnLigne passe a FraisExpressCorrige)
+$ javac boutique/solid/l/*.java
+boutique/solid/l/EssaiEbook.java:7: error: incompatible types: inference variable E has incompatible bounds
+        return new FraisExpressCorrige().frais(List.of(new LivreEnLigne("Roman en e-book", "https://exemple.fr/roman")));
+                                        ^
+    upper bounds: Expediable,Object
+    lower bounds: LivreEnLigne
+  where E is a type-variable:
+    E extends Object declared in method <E>of(E)
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error
+(compilation refusee, code 1)

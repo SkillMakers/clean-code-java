@@ -1,0 +1,7 @@
+  27 src/main/java/boutique/avant/Calc.java
+  46 src/main/java/boutique/corrige/PrixPanier.java
+  60 src/main/java/boutique/pieges/PrixPanierDecoupe.java
+ 133 total
+src/main/java/boutique/avant/Calc.java : 1 methodes
+src/main/java/boutique/corrige/PrixPanier.java : 5 methodes
+src/main/java/boutique/pieges/PrixPanierDecoupe.java : 12 methodes

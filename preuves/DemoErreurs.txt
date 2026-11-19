@@ -1,0 +1,4 @@
+$ java boutique.erreurs.DemoErreurs
+destinataire(C-1) = lea@exemple.fr
+avant : java.lang.NullPointerException: Cannot invoke "boutique.erreurs.Client.email()" because "client" is null
+apres : boutique.erreurs.ClientInconnu: client inconnu : C-9
